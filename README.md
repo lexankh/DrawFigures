@@ -1,6 +1,6 @@
 # DrawFigures
 
-## Ссылка на рабочую версию проекта: (https://github.com/lexankh/DrawFigures)[https://github.com/lexankh/DrawFigures]
+## Ссылка на рабочую версию проекта: [https://lexankh.github.io/DrawFigures](https://lexankh.github.io/DrawFigures)
 
 ## О проекте
 
